@@ -1,8 +1,8 @@
 # Youtube App
 React Native UI Challenge 
 
-![alt funny jerry](https://raw.githubusercontent.com/funnyjerry/react-native-youtub-app/master/screenshots/preview.png)
-<img src="https://raw.githubusercontent.com/funnyjerry/react-native-youtub-app/master/screenshots/preview.png" alt="Demo" width="340" />
+![alt funny jerry](https://raw.githubusercontent.com/funnyjerry/react-native-youtub-app/master/preview.png)
+
 
 # How to use it
 
