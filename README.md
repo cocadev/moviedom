@@ -1,15 +1,14 @@
-# Marvel App
+# Youtube App
 React Native UI Challenge 
 
-Thanks to [Jacob Caccamo](https://dribbble.com/jacobcaccamo) for this awesome design.
-
-![alt Dribble](https://raw.githubusercontent.com/cinder92/react-native-marvel-app/master/how-app-should-look.png)
+![alt Dribble](https://raw.githubusercontent.com/funnyjerry/react-native-youtub-app/master/how-app-should-look.png)
 
 # How to use it
 
 `npm i && react-native run-ios` || `yarn && react-native run-ios`
+`npm i && react-native run-android` || `yarn && react-native run-android`
 
 # TODO
 
-- [ ] Test on Android
+- [x] Test on Android
 - [x] Test on iOS
