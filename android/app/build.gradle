@@ -102,7 +102,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.marvelapp"
+        applicationId "com.wangharry.io"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
