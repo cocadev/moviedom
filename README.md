@@ -5,10 +5,8 @@ React Native UI Challenge
 
 # Preview App
 
-<center>
-<img src="screenshots/1.PNG" width="40%" style="margin-left: 30px" /> 
-<img src="screenshots/2.PNG" width="40%" style="margin-right: 30px"/>
-</center>
+<img src="screenshots/1.PNG" width="40%" /> 
+<img src="screenshots/2.PNG" width="40%" />
 
 
 # How to use it
