@@ -26,19 +26,19 @@ const movies = [{
     "id" : 1,
     "avenger" : "Captain America",
     "titles" : [{
-        title : "Captain America : The First Avenger",
+        title : "The First Avenger",
         big : captainAmerica,
         image : firstAvenger,
         trailer : "https://www.youtube.com/embed/JerVrbLldXw",
         duration : "124"
     },{
-        title : "Captain America : Winter Soldier",
+        title : "Winter Soldier",
         big : captainAmerica,
         image : winterSoldier,
         trailer : "https://www.youtube.com/embed/tbayiPxkUMM",
         duration : "136"
     },{
-        title : "Captain America : Civil War",
+        title : "Civil War",
         big : captainAmerica,
         image : civilWar,
         trailer : "https://www.youtube.com/embed/dKrVegVI0Us",
@@ -48,19 +48,19 @@ const movies = [{
     id : 2,
     avenger : "Iron Man",
     titles : [{
-        title : "Iron Man",
+        title : "Iron Man Start",
         big : ironman,
         image : ironman1,
         trailer : "https://www.youtube.com/embed/8hYlB38asDY",
         duration : "126"
     },{
-        title : "Iron Man 2",
+        title : "Iron Man Superior",
         big : ironman,
         image : ironman2,
         trailer : "https://www.youtube.com/embed/BoohRoVA9WQ",
         duration : "124"
     },{
-        title : "Iron Man 3",
+        title : "Iron Man Incrediable",
         big : ironman,
         image : ironman3,
         trailer : "https://www.youtube.com/embed/Ga817lEqAoI",
@@ -68,13 +68,13 @@ const movies = [{
     }]
 },{
     id : 3,
-    avenger : "The Incredible Hulk",
+    avenger : "Incredible Hulk",
     titlePosition : {
         top : measures.heightPercentageToDP("25%"),
         left : measures.widthPercentageToDP("5%")
     },
     titles : [{
-        title : "The Incredible Hulk",
+        title : "Incredible Hulk",
         big : hulk,
         image : hulkmovie,
         trailer : "https://www.youtube.com/embed/PYVccTVP4mg",
@@ -94,13 +94,13 @@ const movies = [{
         trailer : "https://www.youtube.com/embed/JOddp-nlNvQ",
         duration : "115"
     },{
-        title : "Thor : The Dark World",
+        title : "The Dark World",
         big : thor,
         image : thorDarkWorld,
         trailer : "https://www.youtube.com/embed/npvJ9FTgZbM",
         duration : "123"
     },{
-        title : "Thor : Ragnarok",
+        title : "Ragnarok",
         big : thor,
         image : thorRagnarok,
         trailer : "https://www.youtube.com/embed/ue80QwXMRHg",
