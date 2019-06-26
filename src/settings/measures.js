@@ -2,8 +2,12 @@ import { Dimensions, Platform, PixelRatio } from 'react-native';
 const { width, height } = Dimensions.get('window');
 
 // Use iPhone XS Max as base size which is 375 x 667
-const baseWidth = 414;
-const baseHeight = 896;
+const baseWidth = 400;
+// const baseWidth = 414;
+
+const baseHeight = 800;
+// const baseHeight = 896;
+
 
 const scaleWidth = width / baseWidth;
 const scaleHeight = height / baseHeight;
