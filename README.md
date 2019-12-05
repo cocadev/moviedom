@@ -71,7 +71,6 @@ Animavita's purpose is not to change how people use facebook to the activities d
 
 -   [x] Make it work on IOS
 -   [x] Make it work on Android
--   [x] Make it work on Expo
 -   [x] Transform into responsive
 -   [x] Update to latest React Native version
 
@@ -96,41 +95,12 @@ Animavita's purpose is not to change how people use facebook to the activities d
 ## :zap: **Tech Stack**
 
 <h1 align="center">
-  <img src="https://apprecs.org/gp/images/app-icons/300/d8/host.exp.exponent.jpg" alt="Expo" height="100" width="100">
   <img src="https://ionicframework.com/docs/assets/icons/logo-react-icon.png" alt="RN" height="100" width="100">
-  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png" alt="Firebase" height="100" width="100">
-  <img src="https://icon-library.net/images/png-map-icon/png-map-icon-26.jpg" alt="Map" height="100" width="100">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" alt="Facebook" height="100" width="100">
-  <img src="https://www.xda-developers.com/files/2012/09/bluetooth.png" alt="Blooth" height="100" width="100">
-  <img src="http://www.wiresmart.co/wp-content/uploads/2018/05/wifi.png" alt="WIFI" height="100" width="100">
-
-
   <br>
 </h1>
 
 -   [React Native](https://github.com/facebook/react-native)
--   [Expo](https://github.com/expo/expo)
--   [Redux](https://github.com/reduxjs/react-redux)
--   [Redux-Persist](https://github.com/rt2zz/redux-persist)
--   [Lottie React Native](https://github.com/react-native-community/lottie-react-native)
--   [Antd Mobile RN](https://github.com/ant-design/ant-design-mobile-rn)
--   [React Native Firebase](https://github.com/invertase/react-native-firebase)
--   [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
 -   [Eslint](https://eslint.org/)
--   [Facebook Login](https://github.com/facebook/react-native-fbsdk)
-
--   [MongoDB](https://www.mongodb.com/)
--   [Formik + Yup](https://jaredpalmer.com/formik/)
--   [Apollo](https://apollographql.com)
--   [GraphQL](https://github.com/facebook/graphql)
--   [Kraken](https://github.com/wendelfreitas/kraken)
--   [OneSignal](https://onesignal.com)
--   [AWS](https://aws.amazon.com/pt/)
--   [Styled Components](https://www.styled-components.com/)
--   [Reactotron](https://infinite.red/reactotron)
--   [Bug Snag](https://github.com/bugsnag/bugsnag-react-native)
--   [Android WIFI](https://github.com/devstepbcn/react-native-android-wifi)
--   [Mobx](https://github.com/mobxjs/mobx-react)
 
 ## :iphone: **Test**
 
@@ -138,5 +108,5 @@ Animavita's purpose is not to change how people use facebook to the activities d
 - [x] Test on iOS
 
 ## :eyes: **Version**
-- [ ] React-Native 
-- [x] Expo 35
+- [x] React-Native (0.59.9)
+- [ ] Expo 35
