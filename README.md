@@ -1,14 +1,5 @@
 <h1 align="center"><b> Youtube Streaming App</b> </h1>
 
-<h1 align="center">
-  <br>
-  <kbd>
-    <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
-  </kbd>
-  <br>
-  <br><br>
-</h1>
-
 <p align="center">React Native UI challenge DEMO APP</p>
 
 <p align="center"><i>"How to save a life?" - The Youtube</i> </p>
