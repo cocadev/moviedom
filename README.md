@@ -1,4 +1,4 @@
-<h1 align="center"><b> Simple Youtube Streaming App 4</b> </h1>
+<h1 align="center"><b> Simple Youtube Streaming App 5</b> </h1>
 
 <p align="center">React Native UI challenge DEMO APP</p>
 
@@ -99,5 +99,5 @@ Animavita's purpose is not to change how people use facebook to the activities d
 - [x] Test on iOS
 
 ## :eyes: **Version**
-- [x] React-Native (0.59.9)
-- [ ] Expo 35
+- [x] React-Native (0.61.9)
+- [ ] Expo 42
