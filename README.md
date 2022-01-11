@@ -1,4 +1,4 @@
-<h1 align="center"><b> Simple Youtube Streaming App 6</b> </h1>
+<h1 align="center"><b> Simple Youtube Streaming App 7</b> </h1>
 
 <p align="center">React Native UI challenge DEMO APP</p>
 
